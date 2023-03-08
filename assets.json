@@ -1,0 +1,82 @@
+{
+    "speakers": [
+        {
+            "id": "1",
+            "nombre": "Adolfo Ramirez",
+            "ruta": "./assets/speakers/Adolfo-Ramirez.jpg",
+            "cargo": "Director de Avaclick",
+            "semblanza": "Director de Avaclick, con más de 10 años de experiencia en analítica empresarial, apasionado de convertir la tecnología y los datos en soluciones de negocio. Mercadólogo de profesión, conferencista nacional e internacional en transformación digital, ciencia de datos, inteligencia artificial y analítica predictiva."
+        },
+        {
+            "id": "2",
+            "nombre": "Agustin Iglesias",
+            "ruta": "./assets/speakers/Agustin-Iglesias.jpg",
+            "cargo": "CEO Pulppo",
+            "semblanza": "Agustin Elías Iglesias es nacido en Argentina, y hace 3 años vive en México. Estudio sistemas en la preparatoria y negocios en la Universidad (ITBA), Ha realizado cursos focalizados en Managment, Recursos Humanos, Marketing, entre otros en la escuela de negocios IAE. La experiencia familiar me llevo a emprender en el 2012, creando tokkobroker.com , el primer CRM de Argentina focalizado en la relación con el cliente y no en el manejo del stock de propiedades. En el 2020, previo a la pandemia, cambien de vertical de negocio dentro de Navent (Inmuebles24.com), y me radique definitivamente en México, en el 2022 arranque junto con Matías Gath, la aventura de volver a emprender y crear Pulppo.com"
+        },
+        {
+            "id": "3",
+            "nombre": "Diego Alexanderson",
+            "ruta": "./assets/speakers/Diego-Alexanderson.jpg",
+            "cargo": "Archivo de Instrumentos",
+            "semblanza": "Abogado egresado de la Benemérita Universidad de Guadalajara. De 2015 a 2018, fungió como Coordinador Especializado de la Secretaría General del Ayuntamiento de Guadalajara. De 2018 a 2020 se desempeñó como Director del Periódico Oficial del Estado de Jalisco, mismo que, bajo su gestión transición a la era digital. Ahora, desde el 2020, ostenta el cargo de Director del Archivo de Instrumentos Públicos del Estado."
+        },
+        {
+            "id": "4",
+            "nombre": "Erik Tapia",
+            "ruta": "./assets/speakers/Erik-Tapia.jpg",
+            "cargo": "RPPC",
+            "semblanza": "Originario de la ciudad de Hermosillo, Sonora; residiendo en la ciudad de Guadalajara, Jalisco, desde hace más de veinte años. Egresado de  la licenciatura en Derecho en la Universidad La Salle Guadalajara, con especialidad en Derecho Procesal Civil por el Instituto de Administración Pública del Estado de Jalisco y maestría en Derecho Público por la Universidad Panamericana Campus Guadalajara.  Fue litigante de materias civil, mercantil y familiar, fungió como Secretario General en tres ocasiones y Coordinador de Servicios Públicos del ayuntamiento de Tlajomulco de Zúñiga, se desempeñó como Jefe de Gabinete del municipio de Guadalajara y actualmente es  Director General del Registro Público de la Propiedad y de Comercio del estado de Jalisco. Con experiencia como docente de las materias de Derecho administrativo, Derecho urbano y Derecho municipal, en la Universidad Marista de Guadalajara."
+        },
+        {
+            "id": "5",
+            "nombre": "Laura Gabriela Cárdenas Rodríguez",
+            "ruta": "./assets/speakers/Gaby-Cadenas.jpg",
+            "cargo": "Diputada Distrito 6 MC",
+            "semblanza": "Es una joven política jalisciense a la que le apasiona el servicio público; con una ley muy clara de vida: Hacerlo Bien.  Estudió la licenciatura de Negocios Internacionales en la Universidad de Guadalajara, es Maestra en Desarrollo Social por la Universidad Panamericana, y maestrante de Administración de Negocios por la Universidad de Guadalajara. Tiene diferentes diplomados sobre Gobierno, Administración Pública Municipal, Liderazgo y Políticas Públicas.  Fue Regidora reelecta en Zapopan, del 2015 al 2021y diputada de Jalisco por el distrito 6, presidenta de la Comisión de Competitividad, Desarrollo Económico, Innovación y Trabajo, y vocal en las comisiones de Estudios Legislativos y Reglamentos, y Puntos Constitucionales y Electorales, en el Congreso de Jalisco.  Ha impulsado muchas agendas importantes para nuestra sociedad: por la protección al medio ambiente con la Agenda 2030 y la defensa de bosques y Áreas Naturales Protegidas; por las mujeres con programas de protección para quienes sufren violencia, apoyos para madres jefas de familia y emprendedoras; por las niñas, los niños, y adolescentes, con protección a su primera infancia,  desde la defensa a las estancias infantiles hasta las adopciones para la niñez institucionalizada; por las personas que son más vulnerables, creando un Sistema de Cuidados integral en Zapopan, y hoy en todo Jalisco; por las y los jaliscienses, con impulso de programas y políticas públicas en pro del desarrollo económico, con apoyos, capacitación y todo lo necesario para que micro y pequeños empresarios salgan adelante y sigan generando empleos; y muchísimos temas más. "
+        },
+        {
+            "id": "6",
+            "nombre": "Gustavo Huerta",
+            "ruta": "./assets/speakers/Gustavo-Huerta.jpg",
+            "cargo": "CEO View Capital",
+            "semblanza": "Es Socio y General Partner y Managing Director de View Capital fondo de venture capital especializado en Proptech y Real Estate Technology.Abogado y cuenta con distintos posgrados en emprendimiento, innovación, liderazgo y alta dirección de empresa. Es graduado, profesor invitado y presidente del Consejo Consultivo y Promotor del Centro de Investigación en Iniciativa Empresarial (CIIE) del IPADE Business School, y completó con éxito dos posgrados en la Universidad de Salamanca y en la Harvard Business School.Fundador y Presidente de BlueBox Ventures, la firma Corporate Venturing y Corporate Venture Capital-as-a-Service más grande de América Latina. Trabajando con más de 21 empresas globales y la banca de desarrollo en Latinoamérica co-invertir en más de 20 compañías al rededor del mundo.Ha sido considerado como uno de los 50 emprendedores más importantes en México según la revista Mundo Ejecutivo y una de las 30 Promesas de Negocios para Forbes. Finalista del EY Entrepreneur Of The Year. Estando al frente de Bluebox logró el primer lugar Great Place to Work en el año 2019 y 2020 en México y América Latina."
+        },
+        {
+            "id": "7",
+            "nombre": "Jahaziel Omar",
+            "ruta": "./assets/speakers/Jahaziel-Omar.jpg",
+            "cargo": "CAST Inmobiliaria",
+            "semblanza": "Incursionó en el medio inmobiliario desde hace más de 15 años. Fue el Fundador de Inmobiliaria CAST y ha sido el Director General desde el año 2016. ha desempeñado diversos cargos dentro de la AMPI Guadalajara, entre los más destacados están: Director de Promoción Institucional en la AMPI en el año 2021 fue representante en el Consejo Técnico Catastral de Zapopan y 2022, específicamente trabajando por la aprobación de la iniciativa de la ley inmobiliaria, misma que promueve la profesionalización de nuestro sector. Representante de la AMPI en el Consejo técnico Catastral de Tlajomulco 2018 así como Subdirector de Capacitación y Director de Membresía en dicho año."
+        },
+        {
+            "id": "8",
+            "nombre": "Juan Huicochea",
+            "ruta": "./assets/speakers/Juan-Huicochea.jpg",
+            "cargo": "Investigador MIT",
+            "semblanza": "Actual investigador Wang Fellow en sustentabilidad y tecnología en el sector inmobiliario por MIT, siendo responsable del primer trabajo de investigación en Proptech a nivel Latinoamérica. Su trabajo tiene como premisa agregar valor tanto al agente de consumo como al agente de desarrollo y oferta inmobiliaria; esto nutre de facto su pasión por el desarrollo económico, la sustentabilidad y la tecnología. Juan estudió la carrera de arquitectura en ITESM CCM con beca de Excelencia y cuenta con estudios en Filosofía por la UNAM y urbanismo por la CUHK de Hong Kong.  También ha sido director de construcción en diferentes tipologías y proyectos en México, entre el que destaca el complejo Four Seasons Tamarindo, uno de los centros turísticos más sofisticados a nivel mundial. Recientemente su más reciente obra “Casa Mason” fue publicada en conjunto con el estudio NVDS.  Actualmente es ponente principal en conferencias de tecnología del sector inmobiliario a nivel Latinoamérica y enfoca su investigación en financiamiento verde para infraestructura."
+        },
+        {
+            "id": "9",
+            "nombre": "Luis Montes de Oca",
+            "ruta": "./assets/speakers/Luis-Montes-de-Oca.jpg",
+            "cargo": "CEO Elite Industrial Parks",
+            "semblanza": "Abogado egresado del ITESO, con larga experiencia en el Desarrollo Inmobiliario. Desarrolló vivienda bajo las siglas de DIMMO durante 10 años, tiempo en el  que realizo 11 fraccionamientos y poco más de 1,200 viviendas. A colaborado como consultor con diversas firmas realizando alianzas estratégicas entre importantes desarrolladores  inmobiliarios de segmentos distintos (Habitacional, Comercial, Corporativo e Industrial) para la realización de proyectos mixtos en conjunto. Es asesor en temas de desarrollo inmobiliario industrial  relacionados con la causa/efecto del fenómeno Industrial existente en la ZMG y la absorción que esto produce. Es Socio Fundador y Director General  de ELITE last Mile Infistrial Parks , empresa dedicada exclusivamente al desarrollo de parques Industriales de “última milla” con el mayor posicionamiento en la ZMG."
+        },
+        {
+            "id": "10",
+            "nombre": "Raul Fierro",
+            "ruta": "./assets/speakers/Raul-Fierro.jpg",
+            "cargo": "Escritor Expansión",
+            "semblanza": "Originario de Guadalajara, donde estudió Ingeniería Civil y tiene una especialidad en Project Management por la University of New South Wales, en Sidney. Durante más de 15 años ha participado en proyectos en países como Australia, Italia, México y Canadá, entre los que destaca un edificio de 75 departamentos vendido en 42 minutos. Actualmente forma parte del Consejo de proptech startups, dirige la agencia Sociala Marketing Inmobiliario y participa en BOND Properties, la inmobiliaria boutique especializada en terrenos para desarrollos. También escribe en la revista EXPANSIÓN sobre negocios inmobiliarios, es anfitrión de un Podcast e imparte conferencias en eventos internacionales como el Encuentro Latinoamericano de Desarrolladores Inmobiliarios, en Panamá o el Real Estate Tech Summit, en Miami."
+        
+        },
+        {
+            "id": "11",
+            "nombre": "Sofia Corona",
+            "ruta": "./assets/speakers/Sofia-Corona.jpg",
+            "cargo": "Escritora",
+            "semblanza": "Es Diseñadora Gráfica, Madre de dos hijas adolescentes. Tiene un Diplomado en habilidades de relación de ayuda. En el 2018 la vida le presentó una oportunidad para enfrentar el más grande reto al haber tenido un accidente automovilístico que le causó una lesión medular con diagnóstico de cuadriplejia. En el 2021 publicó su primera obra de escritura  autobiográfica “¿Para que a mí?” y en la cual contiene testimonio de sobrevivencia y resiliencia. Amante del deporte y en la búsqueda continua del desarrollo y crecimiento personal y espiritual.  Actualmente está trabajando para la empresa de VERITANEURO, para brindar información y apoyo a personas que atraviesan por situaciones similares, ofreciendo sus tratamientos para rehabilitación. Cree firmemente en HACER QUE LA PENA VALGA LA PENA y QUE LA ADVERSIDAD NO CANCELA LA FELICIDAD."
+        }
+    ]
+}
