@@ -78,5 +78,32 @@
             "cargo": "Escritora",
             "semblanza": "Es Diseñadora Gráfica, Madre de dos hijas adolescentes. Tiene un Diplomado en habilidades de relación de ayuda. En el 2018 la vida le presentó una oportunidad para enfrentar el más grande reto al haber tenido un accidente automovilístico que le causó una lesión medular con diagnóstico de cuadriplejia. En el 2021 publicó su primera obra de escritura  autobiográfica “¿Para que a mí?” y en la cual contiene testimonio de sobrevivencia y resiliencia. Amante del deporte y en la búsqueda continua del desarrollo y crecimiento personal y espiritual.  Actualmente está trabajando para la empresa de VERITANEURO, para brindar información y apoyo a personas que atraviesan por situaciones similares, ofreciendo sus tratamientos para rehabilitación. Cree firmemente en HACER QUE LA PENA VALGA LA PENA y QUE LA ADVERSIDAD NO CANCELA LA FELICIDAD."
         }
-    ]
+    ],
+    "patrocinadores" : 
+        {
+            "master" : [{
+                "id" : "1",
+                "src" : "https://foroampigdl.com/assets/images/Valladolid_Web.png",
+                "alt" : "Valladolid",
+                "href" : "https://www.cajamorelia.com.mx/"
+            }],
+            "diamante" : [{
+                "id" : "1",
+                "src" : "https://foroampigdl.com/assets/images/patrocinadores/diamante/Inmuebles24_Web.png",
+                "alt" : "Inmuebles 24",
+                "href" : "https://www.inmuebles24.com/"
+            }],
+            "oro" : [{
+                "id" : "2",
+                "src" : "https://foroampigdl.com/assets/images/patrocinadores/oro/Infinance_Web.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "3",
+                "src" : "https://foroampigdl.com/assets/images/patrocinadores/oro/Lima_Web.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            }]
+        }
 }

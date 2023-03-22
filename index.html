@@ -26,6 +26,7 @@
       data () {
         return {
           speakers: null,
+          patrocinadores: null,
           selected: 0
         }
       },
@@ -40,6 +41,7 @@
              </div>
           </div>
           <app-modal :speakers="speakers" :selected="selected"/>
+          <app-patrocinadores :patrocinadores="patrocinadores"/>
       </div>
       
       `,
@@ -47,7 +49,8 @@
         fetch('./assets.json')
           .then((response) => response.json())
           .then((data) => {
-            this.speakers = data.speakers
+            this.speakers = data.speakers;
+            this.patrocinadores = data.patrocinadores;
           });
       },
       methods: {
@@ -85,6 +88,21 @@
         </div>
       </div>`,
     });
+
+    Vue.component("app-patrocinadores",{
+      data: function(){
+        return {
+          
+        }
+      },
+      props: ['patrocinadores'],
+      template:``,
+      mounted () {
+        console.log(this.patrocinadores);
+      }
+    });
+
+    
   </script>
 </body>
 </html>
