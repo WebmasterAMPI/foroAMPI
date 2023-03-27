@@ -83,27 +83,252 @@
         {
             "master" : [{
                 "id" : "1",
-                "src" : "https://foroampigdl.com/assets/images/Valladolid_Web.png",
+                "src" : "./assets/Valladolid_Web.png",
                 "alt" : "Valladolid",
                 "href" : "https://www.cajamorelia.com.mx/"
             }],
             "diamante" : [{
                 "id" : "1",
-                "src" : "https://foroampigdl.com/assets/images/patrocinadores/diamante/Inmuebles24_Web.png",
+                "src" : "./assets/patrocinadores/diamante/Inmuebles24_Web.png",
                 "alt" : "Inmuebles 24",
                 "href" : "https://www.inmuebles24.com/"
             }],
             "oro" : [{
-                "id" : "2",
-                "src" : "https://foroampigdl.com/assets/images/patrocinadores/oro/Infinance_Web.png",
+                "id" : "1",
+                "src" : "./assets/patrocinadores/oro/Infinance_Web.png",
                 "alt" : "Infinance",
                 "href" : "https://infinance.com.mx/"
             },
             {
+                "id" : "2",
+                "src" : "./assets/patrocinadores/oro/Lima_Web.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
                 "id" : "3",
-                "src" : "https://foroampigdl.com/assets/images/patrocinadores/oro/Lima_Web.png",
+                "src" : "./assets/patrocinadores/oro/600x400_Plata_Artpark.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "4",
+                "src" : "./assets/patrocinadores/oro/800x400_LOGO VERTICAL.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "5",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_Avaclick.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "6",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_Bombay.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "7",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_HirCasa.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "8",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_Inmoplus.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "9",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_LaHaus.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "10",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_LegalGlobal.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "11",
+                "src" : "./assets/patrocinadores/oro/800x400_Oro_VisorUrbano.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "12",
+                "src" : "./assets/patrocinadores/oro/iFlat_Web.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "13",
+                "src" : "./assets/patrocinadores/oro/PinnMx_Web.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            }],
+            "plata" : [{
+                "id" : "1",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Bailmex.png",
+                "alt" : "Inmuebles 24",
+                "href" : "https://www.inmuebles24.com/"
+            },{
+                "id" : "2",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Eclosion.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "3",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Guadalajara.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "4",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_IGP.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "5",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Infinance.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "6",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Ingenia.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "7",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Kulkana.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "8",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Multiburo.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "9",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Remax.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "10",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Renovable-removebg-preview.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "11",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_SalvandoLatidos.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "12",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Vivanuncios.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "13",
+                "src" : "./assets/patrocinadores/plata/600x400_Plata_Assad.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            }],
+            "presencial" : [{
+                "id" : "1",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Alfa4.png",
+                "alt" : "Inmuebles 24",
+                "href" : "https://www.inmuebles24.com/"
+            },{
+                "id" : "2",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Bailmex.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "3",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Century21.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "4",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Construtips.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "5",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Grecia.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "6",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_HairStudio.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "7",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Marisa.png",
+                "alt" : "Infinance",
+                "href" : "https://infinance.com.mx/"
+            },
+            {
+                "id" : "8",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_MercadoLibre.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "9",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Multiburo.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "10",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Primara.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "11",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_PuntoValor.png",
+                "alt" : "Lima Estudio",
+                "href" : "https://www.instagram.com/limaestudio.mx/"
+            },
+            {
+                "id" : "12",
+                "src" : "./assets/patrocinadores/presencial/400x400_Presencial_Viterra.png",
                 "alt" : "Lima Estudio",
                 "href" : "https://www.instagram.com/limaestudio.mx/"
             }]
         }
 }
+
+
+
+
+
+
+
+
+
+
+
